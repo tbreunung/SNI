@@ -24,6 +24,9 @@ For further information please also look at the comments in the code.
 ## Gaussian kernel approximation (GKA)
 The folder "GKA" contains code for section 5 of [1]. "Stochint_GKA_1D.m" performs the GKA for the Duffing oscillator and "Stochint_GKA_3D.m" for a chain with three masses.
 
+# Citation
+Please cite [1] if you use any of these codes for your own work. 
+
 # Reference
 [1] T. Breunung and B. Balachandran. Computationally efficient simulations of stochastically perturbed nonlinear dynamical systems, Jounrnal of Computational and Nonlinear Dynamics, accepted. 
 
