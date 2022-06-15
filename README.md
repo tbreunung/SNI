@@ -29,3 +29,5 @@ The folder "GKA" contains code for section 5 of [1]. "Stochint_GKA_1D.m" perform
 
 # Notes
 The codes were tested and debugged using MATLAB R2021a, R2020a and R2019b. 
+
+Maintained by Thomas Breunung, thomasbr at umd dot umd June 15, 2022.
