@@ -8,7 +8,7 @@ Department of Mechanical Engineering, University of Maryland, College Park, Mary
 This software is made public for research use only. It may be modified and redistributed under the terms of the MIT License.
 
 # Content
-This repsitory accompanies [1].
+This repository provides code to reproduce the findings and figure of [1]. The three folders contain codes accompanziny sections 3,4, and 5. 
 
 ## Small noise expansion
 The folder "Smallnoise_straightforward" contains code computing the small noise expansion for the Duffing oscillator. It reproduces the Fig 1b in Section 3 of [1]. 
