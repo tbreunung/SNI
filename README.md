@@ -30,7 +30,7 @@ The folder "GKA" contains code for section 5 of [1]. "Stochint_GKA_1D.m" perform
 Please cite [1] if you use any of these codes for your own work. 
 
 # Reference
-[1] T. Breunung and B. Balachandran. Computationally efficient simulations of stochastically perturbed nonlinear dynamical systems, Journal  of Computational and Nonlinear Dynamics, accepted. 
+[1] Breunung, T., & Balachandran, B. (2022). Computationally efficient simulations of stochastically perturbed nonlinear dynamical systems. Journal of Computational and Nonlinear Dynamics, 17(9), 091008, https://doi.org/10.1115/1.4054932.
 
 # Notes
 The codes were tested and debugged using MATLAB R2021a, R2020a and R2019b. 
